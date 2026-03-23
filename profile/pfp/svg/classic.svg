@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="256" height="256" viewBox="0 0 16 16">
+  <defs>
+    <filter id="jsshadow">
+      <feDropShadow flood-color="#003300"
+                    dx="0" dy="0.5" stdDeviation="1" />
+    </filter>
+  </defs>
+  <!-- background -->
+  <path fill="#336633"
+        d="M1 0h14a1 1 0 011 1v14a1 1 0 01-1 1h-14a1 1 0 01-1-1v-14a1 1 0 011-1" />
+  <!-- .js -->
+  <g fill="#99ff99" filter="url(#jsshadow)">
+    <!-- dot -->
+    <circle cx="3" cy="14" r="1" />
+  </g>
+</svg>
