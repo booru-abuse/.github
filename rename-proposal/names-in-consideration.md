@@ -4,6 +4,9 @@
 
 ### Booru
 
+- AllTheBooru
+  - [GitHub Org](<https://github.com/allthebooru>)
+  - [NPM Package](<https://npmjs.com/package/allthebooru>)
 - Booru Abuse
   - [GitHub Org](<https://github.com/booru-abuse>)
   - [NPM Package](<https://npmjs.com/package/booru-abuse>)
